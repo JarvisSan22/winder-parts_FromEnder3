@@ -1,6 +1,10 @@
 # Winder Parts
 This repository contains a part list and .stl as well as .step files for the current version of the JARVIS WINDER.
 
+# Parts change 
+
+- Pully moter holder + 1.6mm extrude from bottom to fit moter 
+
 ## Build the Winder
 You are welcome to build your own. You just need a 3D printer and an Amazon account :D However we have no assembly instructions. The process should be pretty self-explanatory though.
 
