@@ -4,6 +4,7 @@ This repository contains a part list and .stl as well as .step files for the cur
 # Parts change 
 
 - Pully moter holder + 1.6mm extrude from bottom to fit moter 
+- Moter pully rod changed to 12mm
 
 ## Build the Winder
 You are welcome to build your own. You just need a 3D printer and an Amazon account :D However we have no assembly instructions. The process should be pretty self-explanatory though.
